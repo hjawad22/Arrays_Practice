@@ -20,3 +20,14 @@ console.log(likeCakes);
 // I used the shift() method for the array of boolean elements.
 // This method removes the first element from an array.
 // The output is [ true, true, false ].
+
+// ####
+// My understanding of index positions is that fist element 
+// starts with '0' and the second one listed would be '1' and so forth.
+// I will also demo this below.
+
+var friends = ["Jo","Chris","Ash","Linda"];
+
+// So in this array of string, the element "Jo" would be index number '0'. 
+// Then we could move on to the first element which would be "Chris" and this elements idex number is '1'. 
+
